@@ -10,6 +10,18 @@ This is a e-ink display driver library for those epd panels that comes with low 
 2. SES VUSION 2.6 BWR GL420 2.66 inch epd, tested with BE2266ES0550ET7AMY01125 and TC026SC1C3-S5(AE2266ES0550EZ7B22009TY)
 
 
+## Connections
+| ESP32 Pin |  EPD |  Description  |
+| --------- | -----|  -----------  |
+|    13     |  SCK |  Serial Clock |
+|    14     |  SDA |  Serial Data  |
+|    15     |  CS  |  Chip Select  |
+|    25     | BUSY |  Busy Signal  |
+|    26     |  RST |  Reset        |
+|    27     |  DC  |  Data/Command |
+
+
+
 ## Change History
 20220913: Repo initial, with waveshare base sample code imported.
 
