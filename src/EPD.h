@@ -25,6 +25,7 @@
 #include "utility/EPD_2in13d.h"
 #include "utility/EPD_2in66.h"
 #include "utility/EPD_2in66b.h"
+#include "utility/EPD_2in66bses.h"      // 20220913 Kimi: Adding support for SES 2.66 BWR
 #include "utility/EPD_3in7.h"
 #include "utility/EPD_4in01f.h"
 #include "utility/EPD_4in2.h"
