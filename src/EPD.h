@@ -27,6 +27,7 @@
 #include "utility/EPD_2in66b.h"
 #include "utility/EPD_2in66bses.h"      // 20220913 Kimi: Adding support for SES 2.66 BWR
 #include "utility/EPD_3in7.h"
+#include "utility/EPD_3in71.h"          // 20220914 Kimi: Adding support for unknow 3.71 BWR epd panel, FPC labeled as "FPC-2303", which compactable with gooddisplay GDEY037Z03
 #include "utility/EPD_4in01f.h"
 #include "utility/EPD_4in2.h"
 #include "utility/EPD_4in2bc.h"
