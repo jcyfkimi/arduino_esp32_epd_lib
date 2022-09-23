@@ -32,6 +32,7 @@
 #include "utility/EPD_4in2.h"
 #include "utility/EPD_4in2bc.h"
 #include "utility/EPD_4in2b_V2.h"
+#include "utility/EPD_4IN2depg.h"		// 20220923 Kimi: Adding support for DEPG0420BNS19AF
 #include "utility/EPD_5in65f.h"
 #include "utility/EPD_5in83.h"
 #include "utility/EPD_5in83_V2.h"
