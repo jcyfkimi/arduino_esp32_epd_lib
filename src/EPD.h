@@ -32,6 +32,8 @@
 #include "utility/EPD_4in01f.h"
 #include "utility/EPD_4in2.h"
 #include "utility/EPD_4in2bc.h"
+#include "utility/EPD_4in2_tc042sc1c3.h"
+#include "utility/EPD_4in2_se2417fs051.h"
 #include "utility/EPD_4in2b_V2.h"
 #include "utility/EPD_4IN2depg.h"		// 20220923 Kimi: Adding support for DEPG0420BNS19AF
 #include "utility/EPD_4in2wft.h"        // 20221003 Kimi: Adding support for WF0420T1PCZ01
