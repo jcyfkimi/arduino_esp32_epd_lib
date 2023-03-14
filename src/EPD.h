@@ -20,6 +20,7 @@
 #include "utility/EPD_2in13_V2.h"
 #include "utility/EPD_2in13_V3.h"
 #include "utility/EPD_2in13bc.h"
+#include "utility/EPD_2in13_se2213fs093.h"
 #include "utility/EPD_2in13b_V3.h"
 #include "utility/EPD_2in13b_V4.h"
 #include "utility/EPD_2in13d.h"
